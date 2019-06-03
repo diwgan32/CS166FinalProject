@@ -1,0 +1,1 @@
+Our proof-of-concept implementation of LC/RS SoftHeaps compared with Chazelle's implementation of SoftHeaps. Note that the code for his implementation is taken almost entirely from his original paper, except for some small modifications to make it work with C++. We also implemented Kaplan/Zwick's binary tree SoftHeaps as well. 
